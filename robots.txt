@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://syair-hk-kampleng-hari-ini.github.io/sitemap.xml
